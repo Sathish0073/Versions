@@ -1,0 +1,23 @@
+{
+    "message": "Success",
+    "data": {
+        "versions": [
+            {
+                "version": "url",
+                "name": "Version 1"
+            },
+            {
+                "version": "url",
+                "name": "Version 2"
+            },
+            {
+                "version": "url",
+                "name": "Version 3"
+            },
+            {
+                "version": "url",
+                "name": "Version 4"
+            }
+        ]
+    }
+}
